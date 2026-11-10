@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="./assets/profile-banner.gif"
+       width="100%"
+       alt="Riya's Developer Workspace" />
+</div>
+
+<br/>
+
 # 👋 Hey, I'm Riya Singh!
 
 <div align="center">
